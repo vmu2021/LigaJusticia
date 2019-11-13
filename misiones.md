@@ -4,3 +4,4 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros para la liga
 4. Comprar pizza
+5. Investigar los trabajos del enemigo
