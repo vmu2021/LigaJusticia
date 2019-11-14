@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros para la liga
 4. Comprar pizza
 5. Investigar los trabajos del enemigo
+6. Investigar qué trama Flash Reverso
